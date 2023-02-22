@@ -1,4 +1,5 @@
-INTRODUCTION: 
+INTRODUCTION
+
 In this project we use the concept of entropy, specifically
 as defined in information theory, to rate various securities in
 terms of their risk. Entropy quantifies how much is not
@@ -19,5 +20,5 @@ second approach gives us more information making the
 stock price for certain companies more predictable, that is
 less risky, than others.
 
-The entire project explanation with its results is on the PDF link below:
+The entire project explanation with its results is on the PDF link:
 [Project - PDF](https://drive.google.com/file/d/1FSWzZ--UneA1kbEsc3v3Pqk6b2j22W3k/view?usp=sharing)
