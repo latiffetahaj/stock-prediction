@@ -1,4 +1,4 @@
-INTRODUCTION
+#Introduction 
 
 In this project we use the concept of entropy, specifically
 as defined in information theory, to rate various securities in
@@ -20,7 +20,10 @@ second approach gives us more information making the
 stock price for certain companies more predictable, that is
 less risky, than others.
 
+## Project Presentation 
 ![SPRING Research Presentation](https://user-images.githubusercontent.com/20369540/221332631-2b3a9632-9b35-43a6-a31a-cd10b3ef55a7.png)
 
+
+### PDF Version 
 The entire project explanation with its results is on the PDF link:
 [Project - PDF](https://drive.google.com/file/d/1FSWzZ--UneA1kbEsc3v3Pqk6b2j22W3k/view?usp=sharing)
