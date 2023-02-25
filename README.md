@@ -1,4 +1,4 @@
-#Introduction 
+# Introduction
 
 In this project we use the concept of entropy, specifically
 as defined in information theory, to rate various securities in
